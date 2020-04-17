@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio-design/static/css/main.a7ea41fa.chunk.css",
+    "main.js": "/portfolio-design/static/js/main.dd425c7b.chunk.js",
+    "main.js.map": "/portfolio-design/static/js/main.dd425c7b.chunk.js.map",
+    "runtime-main.js": "/portfolio-design/static/js/runtime-main.7d890a07.js",
+    "runtime-main.js.map": "/portfolio-design/static/js/runtime-main.7d890a07.js.map",
+    "static/js/2.1974c4ad.chunk.js": "/portfolio-design/static/js/2.1974c4ad.chunk.js",
+    "static/js/2.1974c4ad.chunk.js.map": "/portfolio-design/static/js/2.1974c4ad.chunk.js.map",
+    "index.html": "/portfolio-design/index.html",
+    "precache-manifest.1c1647bbc570b4c2fced2c4a6f801a18.js": "/portfolio-design/precache-manifest.1c1647bbc570b4c2fced2c4a6f801a18.js",
+    "service-worker.js": "/portfolio-design/service-worker.js",
+    "static/css/main.a7ea41fa.chunk.css.map": "/portfolio-design/static/css/main.a7ea41fa.chunk.css.map",
+    "static/js/2.1974c4ad.chunk.js.LICENSE.txt": "/portfolio-design/static/js/2.1974c4ad.chunk.js.LICENSE.txt",
+    "static/media/arduino_logo.png": "/portfolio-design/static/media/arduino_logo.5a42df19.png",
+    "static/media/c_logo.png": "/portfolio-design/static/media/c_logo.e79e5dbd.png",
+    "static/media/heartrate_sensor.jpg": "/portfolio-design/static/media/heartrate_sensor.13997390.jpg",
+    "static/media/matlab_logo.png": "/portfolio-design/static/media/matlab_logo.cf286322.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d890a07.js",
+    "static/js/2.1974c4ad.chunk.js",
+    "static/css/main.a7ea41fa.chunk.css",
+    "static/js/main.dd425c7b.chunk.js"
+  ]
+}
